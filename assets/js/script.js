@@ -1,7 +1,10 @@
 // Global variables that define the current day and sets the time format
 
-// let currentTime = $("#currentDay");
-// let currentHour = moment().format("H");
+
+// Displays the current day and time
+let currentDate = dayjs().format('dddd-MMMM-YYYY HH:mm:ss');
+$("#currentDay").text(currentDate);
+
 
 $(function () {
   let buttons = $(".saveBtn");
