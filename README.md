@@ -1,7 +1,7 @@
 
-# Strong Password Generator
+# Work Day Scheduler
 
-User interactive strong and secure random password generator
+User interactive work day calendar application
 
 
 
@@ -28,11 +28,11 @@ THEN the saved events persist
 
 ## Screenshots
 
-![App Screenshot](https://github.com/liquidmonks/passwordgenerator/blob/main/assets/images/passwordgenerator.png)
+![App Screenshot](https://github.com/liquidmonks/Work-Day-Scheduler/blob/main/assets/images/demo.gif)
 
 
 ## 🔗 Live Site Link
-[![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://https://liquidmonks.github.io/passwordgenerator//)
+[![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://https://liquidmonks.github.io/Work-Day-Scheduler//)
 
 ## Tech Stack
 
