@@ -32,7 +32,7 @@ THEN the saved events persist
 
 
 ## 🔗 Live Site Link
-[![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://https://liquidmonks.github.io/Work-Day-Scheduler//)
+[![Live Site](https://img.shields.io/badge/livesite-click-orange)](https://liquidmonks.github.io/Work-Day-Scheduler/)
 
 ## Tech Stack
 
